@@ -1,3 +1,3 @@
 # DelsenHub
-Saya sedang belajar GitHub
-Tolong dibimbing
+#Saya sedang belajar GitHub
+#Tolong dibimbing
