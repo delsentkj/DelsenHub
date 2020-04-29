@@ -1,2 +1,2 @@
 # DelsenHub
-Sedang belajar GitHub
+Saya sedang belajar GitHub
